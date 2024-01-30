@@ -1,1 +1,1 @@
-# codetech-NumberGuessingGame
+# NumberGuessingGame
